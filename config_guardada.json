@@ -1,0 +1,19 @@
+{
+  "edicion": "EDICIÓN NO. 10 - 2026",
+  "objetivo": "*Fomentar oportunidades* para las empresas del sector a través de la provisión continua de información sobre *proyectos* y *convocatorias* de licitación pública de obra civil, interventoría y consultoría de estudios y diseños que están próximos a desarrollarse.",
+  "texto_boton": "DESLIZA Y CONOCE *NUEVAS*|*OPORTUNIDADES* PARA TU EMPRESA EN EL|*SECTOR DE LA INFRAESTRUCTURA*",
+  "fuente_datos": "SECOP I y II",
+  "proyectos_por_pagina": 4,
+  "color_fondo_portada": "#0B3A6E",
+  "color_texto_portada": "#FFFFFF",
+  "color_acento": "#F7941D",
+  "color_texto_objetivo": "#FFFFFF",
+  "color_fondo_contenido": "#F6F6F6",
+  "color_titulo_1": "#111111",
+  "color_titulo_2": "#0056A5",
+  "color_barra_proyecto": "#0B3E70",
+  "color_texto_barra": "#FFFFFF",
+  "color_etiquetas": "#0B3E70",
+  "color_valores": "#3A3A3A",
+  "color_pie": "#034E7B"
+}
